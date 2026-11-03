@@ -196,7 +196,7 @@ plt.show()
 
 # 1. The largest total emitter is China.
 
-# 2. The highest per-capita emitters is Qatar
+# 2. The highest per-capita emitters is Qatar.
 
 # 3. Is wealth linked to emissions? Yes, there is a moderate positive correlation between wealth (GDP per capita) and CO2 emissions per capita. Richer countries generally emit more CO2 per person,but the relationship is not perfect.
 
